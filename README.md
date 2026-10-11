@@ -1,4 +1,4 @@
-# Marketing Performance Dashboard — Portfolio Project 1
+# Marketing Performance Dashboard — by OMKAR
 
 **Live demo:** _paste your Vercel URL here after deploying — e.g. `https://marketing-performance-dashboard.vercel.app`_
 
